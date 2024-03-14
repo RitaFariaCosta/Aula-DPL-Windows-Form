@@ -1,0 +1,10 @@
+C:\Users\Alunos\source\repos\OláMundo\OláMundo\bin\Debug\OláMundo.exe.config
+C:\Users\Alunos\source\repos\OláMundo\OláMundo\bin\Debug\OláMundo.exe
+C:\Users\Alunos\source\repos\OláMundo\OláMundo\bin\Debug\OláMundo.pdb
+C:\Users\Alunos\source\repos\OláMundo\OláMundo\obj\Debug\OláMundo.csproj.AssemblyReference.cache
+C:\Users\Alunos\source\repos\OláMundo\OláMundo\obj\Debug\OláMundo.Form1.resources
+C:\Users\Alunos\source\repos\OláMundo\OláMundo\obj\Debug\OláMundo.Properties.Resources.resources
+C:\Users\Alunos\source\repos\OláMundo\OláMundo\obj\Debug\OláMundo.csproj.GenerateResource.cache
+C:\Users\Alunos\source\repos\OláMundo\OláMundo\obj\Debug\OláMundo.csproj.CoreCompileInputs.cache
+C:\Users\Alunos\source\repos\OláMundo\OláMundo\obj\Debug\OláMundo.exe
+C:\Users\Alunos\source\repos\OláMundo\OláMundo\obj\Debug\OláMundo.pdb
