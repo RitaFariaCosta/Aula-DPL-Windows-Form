@@ -1,0 +1,10 @@
+C:\Users\Alunos\source\repos\OláNovamenteMundo\OláNovamenteMundo\bin\Debug\OláNovamenteMundo.exe.config
+C:\Users\Alunos\source\repos\OláNovamenteMundo\OláNovamenteMundo\bin\Debug\OláNovamenteMundo.exe
+C:\Users\Alunos\source\repos\OláNovamenteMundo\OláNovamenteMundo\bin\Debug\OláNovamenteMundo.pdb
+C:\Users\Alunos\source\repos\OláNovamenteMundo\OláNovamenteMundo\obj\Debug\OláNovamenteMundo.csproj.AssemblyReference.cache
+C:\Users\Alunos\source\repos\OláNovamenteMundo\OláNovamenteMundo\obj\Debug\OláNovamenteMundo.Form1.resources
+C:\Users\Alunos\source\repos\OláNovamenteMundo\OláNovamenteMundo\obj\Debug\OláNovamenteMundo.Properties.Resources.resources
+C:\Users\Alunos\source\repos\OláNovamenteMundo\OláNovamenteMundo\obj\Debug\OláNovamenteMundo.csproj.GenerateResource.cache
+C:\Users\Alunos\source\repos\OláNovamenteMundo\OláNovamenteMundo\obj\Debug\OláNovamenteMundo.csproj.CoreCompileInputs.cache
+C:\Users\Alunos\source\repos\OláNovamenteMundo\OláNovamenteMundo\obj\Debug\OláNovamenteMundo.exe
+C:\Users\Alunos\source\repos\OláNovamenteMundo\OláNovamenteMundo\obj\Debug\OláNovamenteMundo.pdb
